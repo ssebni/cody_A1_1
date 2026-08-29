@@ -70,3 +70,43 @@ python prompt_box.py
 ## 개발 환경
 
 - Python 3.12
+
+## 실행 결과
+
+### 개발 환경 설정
+
+![개발 환경 설정](images/environment.png)
+
+### 메인 메뉴
+
+![Prompt Box 메인 메뉴](images/main-menu.png)
+
+### 기본 프롬프트 목록
+
+![프롬프트 목록](images/prompt-list.png)
+
+### 프롬프트 추가
+
+![프롬프트 추가](images/prompt-add.png)
+
+### 카테고리별 조회
+
+![카테고리별 조회](images/category.png)
+
+### 프롬프트 검색
+
+![프롬프트 검색](images/search.png)
+
+### 프롬프트 상세 보기
+
+![프롬프트 상세 보기](images/detail.png)
+
+### 즐겨찾기 관리
+
+![즐겨찾기 관리](images/favorite.png)
+
+## Git 작업 기록
+
+기능별로 커밋을 작성하고 별도 브랜치에서 기능을 개발한 뒤 main 브랜치에 병합했습니다.
+
+![Git 커밋 및 브랜치 기록](images/git-log.png)
