@@ -243,4 +243,4 @@ while True:
         print("Prompt Box를 종료합니다.")
         break
     else:
-        print("아직 준비 중인 기능입니다.")
+        print("잘못된 선택입니다. 0부터 7까지의 번호를 입력해주세요.")
